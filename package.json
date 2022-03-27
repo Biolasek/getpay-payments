@@ -6,7 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [ "getpay", "polish", "payment", "money", "tranfser" ],
+  "keywords": [
+    "getpay",
+    "polish",
+    "payment",
+    "money",
+    "tranfser"
+  ],
   "author": "Biolasek",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
 }
