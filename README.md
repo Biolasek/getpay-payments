@@ -1,7 +1,7 @@
 # getpay-payments
 Unofficial API for GetPay polish payments.
 
-### Instalation
+### Installation
 ```
 npm i getpay-payments
 ```
