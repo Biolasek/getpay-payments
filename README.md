@@ -1,6 +1,11 @@
 # getpay-payments
 Unofficial API for GetPay polish payments.
 
+### Instalation
+```
+npm i getpay-payments
+```
+
 ### Sample usage
 *Checking the SMS code*
 ``` js
